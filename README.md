@@ -1,4 +1,4 @@
-## Data & Reporting Analyst | Excel • Power BI • SQL • Tableau | Data Visualization & Reporting | Reconciliation • AR/AP Management | 5+ Years GCC Experience
+## Reporting Analyst | Excel • Power BI • SQL • Tableau | Data Visualization & Reporting | Reconciliation • AR/AP Management | 5+ Years GCC Experience
 
 [LinkedIn](https://www.linkedin.com/in/jafbinzain)
 ## About Me
