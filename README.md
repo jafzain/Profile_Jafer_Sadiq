@@ -1,4 +1,4 @@
-## Analytical Accounting Professional | AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • SQL • Tableau |
+## Analytical Accounting Professional|AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • SQL • Tableau|
 5+ Years GCC Experience
 [LinkedIn](https://www.linkedin.com/in/jafbinzain)
 ## About Me
