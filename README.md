@@ -17,12 +17,10 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 • Accounts Payable & Utility Bills Management: Proficient in invoice validation, reconciliation, and timely settlement of vendor and utility payments.
 
 • Reporting & Reconciliation: Skilled in preparing sales and aging reports, reconciling accounts, and assisting with month-end and year-end closings.
-
 ## Tools & Skills
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)
 ## Contact Details    
 <table>
   <tbody>
@@ -31,4 +29,9 @@ Well-adapted to the GCC business environment with industry expertise and a valid
       <td><a href="mailto:jafbinzain@gmail.com">jafbinzain@gmail.com</a></td>
     <tr>
       <td>📞</td>
-      <td>(+966) 502643517</td>
+      <td>(+966) 50 264 3517</td>
+       <tr>
+      <td>🌍</td>
+      <td>Riyadh-Saudi Arabia</td>
+       
+
