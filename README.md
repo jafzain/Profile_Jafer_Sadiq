@@ -8,7 +8,7 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 ## Projects
 ![Business Perfomance Analysis](181025.gif)
 ![Logistics](LogisticsSample.gif)
-![Sales & Revenue](SalesRevenue AnalyticsCN.gif)
+![Sales & Revenue](SalesRevenueAnalyticsCN.gif)
 ## Core Competencies
 • Data Analysis & Visualisation: Experienced in converting financial and operational data into insights using Excel, Power BI, Tableau to support decision-making.
 
