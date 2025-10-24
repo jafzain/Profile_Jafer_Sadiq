@@ -29,9 +29,9 @@ Well-adapted to the GCC business environment with industry expertise and a valid
       <td><a href="mailto:jafbinzain@gmail.com">jafbinzain@gmail.com</a></td>
     <tr>
       <td>📞</td>
-      <td>(+966) 50 264 3517</td>
+      <td> +966 50 264 3517</td>
        <tr>
-      <td>🌍</td>
+      <td>📍</td>
       <td>Riyadh-Saudi Arabia</td>
        
 
