@@ -1,4 +1,4 @@
-## Analytical Accounting Professional |AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • SQL • Tableau |5+ Years GCC Experience
+## Analytical Accounting Professional | AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • SQL • Tableau | Transferable Iqama | GCC Driving License | 5+ Years GCC Experience
 [LinkedIn](https://www.linkedin.com/in/jafbinzain)
 ## About Me
 Analytical Accounting Professional with 5+ years of GCC experience in general accounting, data analysis, reporting, reconciliations, and process optimization. Proven expertise in invoicing management, dispute resolution, and supporting month- and year-end closing processes. Skilled at delivering accurate insights to improve efficiency and support management decisions.
@@ -8,8 +8,7 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 ## Projects
 ![Business Perfomance Analysis](181025.gif)
 ![Logistics](LogisticsSample.gif)
-![Sales & Revenue](Sales&RevenueAnalyticsCN.gif)
-
+![Sales & Revenue](SalesRevenue AnalyticsCN.gif)
 ## Core Competencies
 • Data Analysis & Visualisation: Experienced in converting financial and operational data into insights using Excel, Power BI, Tableau to support decision-making.
 
