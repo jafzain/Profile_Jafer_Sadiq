@@ -6,7 +6,7 @@ Experienced in Oil & Gas and Real Estate industries across the GCC market, with 
 Projects include logistics performance dashboards and sales/revenue analysis, focusing on trends, profitability, and market segmentation.
 Well-adapted to the GCC business environment with industry expertise and a valid UAE Driving License ensuring flexibility to meet organizational needs,Keen on using data to enable quicker, smarter decisions.
 ![Business Perfomance Analysis](181025.gif)
-![Sales & Revenue](Sales & Revenue.jpg)
+![Sales & Revenue Analysis](Sales & Revenue Analytics CN.gif)
 ## Core Competencies
 • Data Analysis & Visualisation: Experienced in converting financial and operational data into insights using Excel, Power BI, Tableau to support decision-making.
 
