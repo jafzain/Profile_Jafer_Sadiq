@@ -1,7 +1,6 @@
 ## Accounting Professional | AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • Tableau • SQL | Transferable Iqama | GCC Driving License | 5+ Years GCC Experience
-[LinkedIn](https://www.linkedin.com/in/jafbinzain)
-
-[Download Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)
+[LinkedIn](https://www.linkedin.com/in/jafbinzain) |
+[Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)
 
 ## About Me
 Analytical Accounting Professional with 5+ years of GCC experience in general accounting, data analysis, reporting, reconciliations, and process optimization. Proven expertise in invoicing management, dispute resolution, and supporting month- and year-end closing processes. Skilled at delivering accurate insights to improve efficiency and support management decisions.
