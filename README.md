@@ -5,8 +5,10 @@ Analytical Accounting Professional with 5+ years of GCC experience in general ac
 Experienced in Oil & Gas and Real Estate industries across the GCC market, with expertise in financial operations, dashboard development, and business performance analysis. 
 Projects include logistics performance dashboards and sales/revenue analysis, focusing on trends, profitability, and market segmentation.
 Well-adapted to the GCC business environment with industry expertise and a valid UAE Driving License ensuring flexibility to meet organizational needs,Keen on using data to enable quicker, smarter decisions.
+## Projects
 ![Business Perfomance Analysis](181025.gif)
-![image](Sales & Revenue Analytics CN.gif)
+![Logistics](LogisticsSample.gif)
+![Sales & Revenue](Sales&RevenueAnalyticsCN.gif)
 
 ## Core Competencies
 • Data Analysis & Visualisation: Experienced in converting financial and operational data into insights using Excel, Power BI, Tableau to support decision-making.
@@ -28,7 +30,6 @@ Well-adapted to the GCC business environment with industry expertise and a valid
     <tr>
       <td>📧</td>
       <td><a href="mailto:jafbinzain@gmail.com">jafbinzain@gmail.com</a></td>
-    </tr>
     <tr>
       <td>📞</td>
-      <td>(+91) 97-4691-4691</td>
+      <td>(+966) 502643517</td>
