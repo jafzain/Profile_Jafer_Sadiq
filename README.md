@@ -22,7 +22,7 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 
 • Accounts Payable & Utility Bills Management: Proficient in invoice validation, reconciliation, and timely settlement of vendor and utility payments.
 
-• Reporting & Reconciliation: Skilled in preparing sales and aging reports, reconciling accounts, and assisting with month-end and year-end closings.
+• Reporting & Reconciliation: Skilled in preparing sales and ageing reports, reconciling accounts, and assisting with month-end and year-end closings.
 ## Contact Details    
 <table>
   <tbody>
