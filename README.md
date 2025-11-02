@@ -12,16 +12,16 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)
 ## Portfolio
-Performance Trends: Month-over-Month Analysis
-: Month-on-Month variance tracking | Branch-level profitability
+## Performance Trends: Month-over-Month Analysis
+Month-on-Month variance tracking | Branch-level profitability
 ![MoMAnalysis](MoMAnalysis.gif)
 ## Business Performance Analysis Dashboard
-: Analyse performance trends — by month, product, segment, and discount band
+Analyse performance trends — by month, product, segment, and discount band
 ![Business Perfomance Analysis](181025.gif)
 ## Trends Over Time-Logistics:Bookings & Delivery 
 ![Logistics](LogisticsSample.gif)
 ## Sales & Revenue Analytics Dashboard
-: Highlights key business insights, including-COGS, Revenue & Sales Trends | Monthly profit trends | Product-wise and Segment-wise performance | Country-wise sales with map visualization
+Highlights key business insights, including-COGS, Revenue & Sales Trends | Monthly profit trends | Product-wise and Segment-wise performance | Country-wise sales with map visualization
 ![Sales & Revenue](SalesRevenueAnalyticsCN.gif)
 ## Core Competencies
 • Data Analysis & Visualisation: Experienced in converting financial and operational data into insights using Excel, Power BI, Tableau to support decision-making.
