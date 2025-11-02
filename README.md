@@ -15,12 +15,12 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 Performance Trends: Month-over-Month Analysis
 : Month-on-Month variance tracking | Branch-level profitability
 ![MoMAnalysis](MoMAnalysis.gif)
-Business Performance Analysis Dashboard
+## Business Performance Analysis Dashboard
 : Analyse performance trends — by month, product, segment, and discount band
 ![Business Perfomance Analysis](181025.gif)
-Trends Over Time-Logistics:Bookings & Delivery 
+## Trends Over Time-Logistics:Bookings & Delivery 
 ![Logistics](LogisticsSample.gif)
-Sales & Revenue Analytics Dashboard
+## Sales & Revenue Analytics Dashboard
 : Highlights key business insights, including-COGS, Revenue & Sales Trends | Monthly profit trends | Product-wise and Segment-wise performance | Country-wise sales with map visualization
 ![Sales & Revenue](SalesRevenueAnalyticsCN.gif)
 ## Core Competencies
