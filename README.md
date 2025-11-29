@@ -2,10 +2,10 @@
 ## About Me
 Analytical Accounting Professional with 5+ years of GCC experience in general accounting, reporting, reconciliations, payroll, inventory and import/export operations. Skilled in AR, AP, VAT support, project-wise analysis and improving financial accuracy through efficient processes. Experienced in ERP systems, data analysis and providing clear insights to support management decisions.
 
-[👉LinkedIn](https://www.linkedin.com/in/jafbinzain) |
-[📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf) | 
-[🏆Microsoft Office Specialist](MicrosoftCertification.pdf) |
-[📜QuickBooks](QuickBooks.pdf) |
+[👉LinkedIn](https://www.linkedin.com/in/jafbinzain)|
+[📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)| 
+[🏆Microsoft Office Specialist](MicrosoftCertification.pdf)|
+[📜QuickBooks](QuickBooks.pdf)|
 [📜SAP Business One](SAPTrainingCertification.pdf)
 ## Tools & Skills
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
