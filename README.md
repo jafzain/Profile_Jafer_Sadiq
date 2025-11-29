@@ -1,4 +1,4 @@
-## Accounting Professional | AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • Tableau • SQL Transferable Iqama | GCC Driving License | 5+ Years GCC Experience
+## Accounting Professional | AR/AP Management • Data Visualization & Reporting • Reconciliation | Excel • Power BI • Tableau • SQL Transferable Iqama | KSA Driving License | 5+ Years GCC Experience
 [Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf) |
 [LinkedIn](https://www.linkedin.com/in/jafbinzain) 
 ## About Me
@@ -12,6 +12,13 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)
 ## Portfolio
+## Projects – Planned vs Actual & Financial Overview Dashboard
+Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & Cost overrun 
+![PlannedvsActual](PlannedVsActual.gif)
+## Interactive Ageing Report Dashboard )
+Web-published Power BI dashboard providing ageing trends, division-wise overdue insights, customer-level tracking, and invoice-level detail.
+[Web Dashboard]([ProfessionalResumeofMrJaferSadiq.pdf](https://tinyurl.com/4avwp36k))
+![AgeingWeb](Ageinggif.gif)
 ## Performance Trends: Month-over-Month Analysis
 Month-on-Month variance tracking | Branch-level profitability
 ![MoMAnalysis](MoMAnalysis.gif)
@@ -39,7 +46,7 @@ Highlights key business insights, including-COGS, Revenue & Sales Trends | Month
       <td><a href="mailto:jafbinzain@gmail.com">jafbinzain@gmail.com</a></td>
     <tr>
       <td>📞</td>
-      <td> +966 50 264 3517</td>
+      <td> +966 53 582 3978</td>
        <tr>
       <td>📍</td>
       <td>Riyadh-Saudi Arabia</td>
