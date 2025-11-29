@@ -1,6 +1,7 @@
 ## Accounting Professional | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau  Transferable Iqama | KSA Driving License | 5+ Years GCC Experience
 ## About Me
 Analytical Accounting Professional with 5+ years of GCC experience in general accounting, reporting, reconciliations, payroll, inventory and import/export operations. Skilled in AR, AP, VAT support, project-wise analysis and improving financial accuracy through efficient processes. Experienced in ERP systems, data analysis and providing clear insights to support management decisions.
+
 [View-LinkedIn](https://www.linkedin.com/in/jafbinzain) |
 [View-Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf) | 
 [View-Microsoft Office Specialist](MicrosoftCertification.pdf) |
