@@ -17,7 +17,7 @@ Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & C
 ![PlannedvsActual](PlannedVsActual.gif)
 ## Interactive Ageing Report Dashboard )
 Web-published Power BI dashboard providing ageing trends, division-wise overdue insights, customer-level tracking, and invoice-level detail.
-[Web Dashboard]([ProfessionalResumeofMrJaferSadiq.pdf](https://tinyurl.com/4avwp36k))
+[Web Dashboard](https://tinyurl.com/4avwp36k)
 ![AgeingWeb](Ageinggif.gif)
 ## Performance Trends: Month-over-Month Analysis
 Month-on-Month variance tracking | Branch-level profitability
