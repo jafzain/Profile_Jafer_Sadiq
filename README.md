@@ -4,7 +4,7 @@ Analytical Accounting Professional with 5+ years of GCC experience in general ac
 
 [👉LinkedIn](https://www.linkedin.com/in/jafbinzain)|
 [📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)|
-[🏆Microsoft Office Specialist](MicrosoftCertification.pdf)|
+[🏆Microsoft Office Specialist](MicrosoftCertification.pdf)
 [✔️QuickBooks](QuickBooks.pdf)|
 [✔️SAP Business One](SAPTrainingCertification.pdf)
 ## Tools & Skills
