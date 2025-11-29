@@ -15,7 +15,7 @@ Well-adapted to the GCC business environment with industry expertise and a valid
 ## Projects – Planned vs Actual & Financial Overview Dashboard
 Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & Cost overrun 
 ![PlannedvsActual](PlannedVsActual.gif)
-## Interactive Ageing Report Dashboard )
+## Interactive Ageing Report Dashboard
 Web-published Power BI dashboard providing ageing trends, division-wise overdue insights, customer-level tracking, and invoice-level detail.
 View in Web ➜[Web Dashboard](https://tinyurl.com/4avwp36k)
 ![AgeingWeb](Ageinggif.gif)
