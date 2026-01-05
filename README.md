@@ -1,6 +1,6 @@
-## Accounting Professional(SOCPA Eligible) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 5+ Years GCC Experience
+## Accounting Professional(SOCPA Eligible) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 6 Years GCC Experience
 ## About Me
-Analytical Accounting Professional with 5+ years of GCC experience in general accounting, reporting, reconciliations, payroll, inventory and import/export operations. Skilled in AR, AP, VAT support, project-wise analysis and improving financial accuracy through efficient processes. Experienced in ERP systems, data analysis and providing clear insights to support management decisions.
+Analytical Accounting Professional with 6 years of GCC experience in general accounting, reporting, reconciliations, payroll, inventory and import/export operations. Skilled in AR, AP, VAT support, project-wise analysis and improving financial accuracy through efficient processes. Experienced in ERP systems, data analysis and providing clear insights to support management decisions.
 
 [👉LinkedIn](https://www.linkedin.com/in/jafbinzain)|
 [📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)|
@@ -13,6 +13,10 @@ Analytical Accounting Professional with 5+ years of GCC experience in general ac
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)
 ## Portfolio
+## Profit & Loss Analysis(MoM & YoY Variance) Dashboard
+Designed an executive-ready P&L dashboard in Power BI featuring a structured layout, KPI cards, and MoM/YoY variance analysis to support quick performance comparison and detailed financial insights.
+[PDF-View](ProfitLoss.pdf) [👉Power BI](https://tinyurl.com/463rd3vu)
+![PL](plgif.gif)
 ## Projects – Planned vs Actual & Financial Overview Dashboard
 Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & Cost overrun 
 ![PlannedvsActual](PlannedVsActual.gif)
@@ -20,9 +24,6 @@ Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & C
 Web-published Power BI dashboard providing ageing trends, division-wise overdue insights, customer-level tracking, and invoice-level detail.
 View in Web ➜[Web Dashboard](https://tinyurl.com/4avwp36k)
 ![AgeingWeb](Ageinggif.gif)
-## Performance Trends: Month-over-Month Analysis
-Month-on-Month variance tracking | Branch-level profitability
-![MoMAnalysis](MoMAnalysis.gif)
 ## Business Performance Analysis Dashboard
 Analyse performance trends — by month, product, segment, and discount band
 ![Business Perfomance Analysis](181025.gif)
