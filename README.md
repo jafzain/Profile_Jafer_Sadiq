@@ -1,4 +1,4 @@
-## Accounting Professional (SOCPA Eligibility Applicable ) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 6 Years GCC Experience
+## Accounting Professional (SOCPA Eligibility Applicable ) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 6 Years GCC Experience |
 ## About Me
 Accountant with 6+ years of GCC Experience in General Accounting, AR, AP, VAT Compliance (ZATCA), Financial Reporting, Reconciliations, Payroll, Inventory, and Import/Export Documentation. Experienced In Project-Based Invoicing, WIP Accounting, Ageing Analysis, ERP Systems, Power BI, and Excel. Involved in Month-End Closing, Reconciliations, and Preparation of Reports to assist management.
 
