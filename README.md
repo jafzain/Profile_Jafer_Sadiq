@@ -3,7 +3,7 @@
 Accountant with 6+ years of GCC Experience in General Accounting, AR, AP, VAT Compliance (ZATCA), Financial Reporting, Reconciliations, Payroll, Inventory, and Import/Export Documentation. Experienced In Project-Based Invoicing, WIP Accounting, Ageing Analysis, ERP Systems, Power BI, and Excel. Involved in Month-End Closing, Reconciliations, and Preparation of Reports to assist management.
 
 [👉LinkedIn](https://www.linkedin.com/in/jafbinzain)|
-[📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)|
+[📄Professional Resume]()|
 [🏆Microsoft Office Specialist](MicrosoftCertification.pdf)
 [✔️QuickBooks](QuickBooks.pdf)|
 [✔️SAP Business One](SAPTrainingCertification.pdf)
