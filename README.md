@@ -1,6 +1,6 @@
-## Accounting Professional(SOCPA Eligible) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 6 Years GCC Experience
+## Accounting Professional(SOCPA Eligibility Applicable ) | General & Project Accounting • AR/AP • Payroll • Inventory • Data Visualization • Reporting • VAT | Excel • Power BI • Tableau | Transferable Iqama | KSA Driving License | 6 Years GCC Experience
 ## About Me
-Analytical Accounting Professional with 6 years of GCC experience in general accounting, reporting, reconciliations, payroll, inventory and import/export operations. Skilled in AR, AP, VAT support, project-wise analysis and improving financial accuracy through efficient processes. Experienced in ERP systems, data analysis and providing clear insights to support management decisions.
+Accountant with 6+ years of GCC Experience in General Accounting, AR, AP, VAT Compliance (ZATCA), Financial Reporting, Reconciliations, Payroll, Inventory, and Import/Export Documentation. Experienced In Project-Based Invoicing, WIP Accounting, Ageing Analysis, ERP Systems, Power BI, and Excel. Involved in Month-End Closing, Reconciliations, and Preparation of Reports to assist management.
 
 [👉LinkedIn](https://www.linkedin.com/in/jafbinzain)|
 [📄Professional Resume](ProfessionalResumeofMrJaferSadiq.pdf)|
@@ -34,17 +34,17 @@ Highlights key business insights, including-COGS, Revenue & Sales Trends | Month
 ![Sales & Revenue](SalesRevenueAnalyticsCN.gif)
 ## Core Competencies
 
-Accounting & Reconciliation: Accounts Receivable, Accounts Payable, invoicing, vendor payment processing, ageing analysis, petty cash control, bank reconciliation, VAT Returns and month-end/year-end closing support.
+Accounting & Reconciliation: Accounts Receivable, Accounts Payable, Invoicing, Vendor Payments, Ageing Analysis, Petty Cash, Bank Reconciliation, Bank Guarantee Monitoring, VAT Returns, and Month-End Closing Support.
 
-Reporting & Analysis: Sales and receivables reports, stock and security deposit reports, project-wise cost, revenue analysis and presenting financial insights for management decisions.
+Reporting & Analysis: Sales and Receivable Reports, Stock and Security Deposit Reports, Bank Guarantee Reports, Project-Wise Cost and Revenue Analysis, Management Reporting.
 
-Project Accounting: Actual vs estimated expenses and revenue, percentage of completion (POC), budget variance, cost overrun analysis, actual profit calculation, project delivery performance review and preparing project dashboards for financial and operational insights.
+Project Accounting: Actual Vs Budget Analysis, Estimated Vs Actual Costs and Revenue, Percentage of Completion (POC), Budget Variance, Cost Overrun Analysis, Profit Calculation, And Project Performance Dashboards.
 
-Inventory Management: Inventory tracking, stock reconciliation for vehicles and stores and posting manufacturing entries by configuring BOM (Bill of Materials).
+Inventory Management: Inventory Tracking, Vehicle and Store Stock Reconciliation, BOM (Bill of Materials) Configuration and Posting Manufacturing Entries.
 
 Payroll, WPS & Overtime: Payroll preparation, overtime calculation across departments/branches and WPS/SIF file processing.
 
-Import & Export Operations: Handling import/export transactions, customs portal submissions, commercial invoices, Bills of Lading, Certificates of Origin and Pro Forma invoices.    Experience coordinating major freight providers like DHL, UPS, TNT and JAS and managing shipment documentation.
+Import & Export Operations: Import/Export Documentation, Customs Portal Submissions, Commercial Invoices, Bills of Lading, Certificates of Origin, Proforma Invoices, and Coordination with Freight Forwarders (DHL, UPS, TNT, JAS).
 ## Contact Details    
 <table>
   <tbody>
