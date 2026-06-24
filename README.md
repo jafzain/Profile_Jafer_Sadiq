@@ -24,6 +24,10 @@ Estimated vs. Actual revenue | Planned vs. Actual expenses | Budget variance & C
 Web-published Power BI dashboard providing ageing trends, division-wise overdue insights, customer-level tracking, and invoice-level detail.
 View in Web ➜[Web Dashboard](https://tinyurl.com/4avwp36k)
 ![AgeingWeb](Ageinggif.gif)
+## Petty Cash Tracker
+Built a Power BI dashboard for petty cash and employee advance tracking, including settlement monitoring, aging analysis, and expense reporting
+View in Web ➜[Web Dashboard](https://tinyurl.com/26d4s8nn) 
+![AgeingWeb](Ageinggif.gif)
 ## Business Performance Analysis Dashboard
 Analyse performance trends — by month, product, segment, and discount band
 ![Business Perfomance Analysis](181025.gif)
