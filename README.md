@@ -27,7 +27,7 @@ View in Web ➜[Web Dashboard](https://tinyurl.com/4avwp36k)
 ## Petty Cash Tracker
 Built a Power BI dashboard for petty cash and employee advance tracking, including settlement monitoring, aging analysis, and expense reporting
 View in Web ➜[Web Dashboard](https://tinyurl.com/26d4s8nn) 
-![Pettycash](PettyCash&AdvanceTracker.pdf)
+![Pettycash](PettyCash&AdvanceTracker.jpg)
 ## Business Performance Analysis Dashboard
 Analyse performance trends — by month, product, segment, and discount band
 ![Business Perfomance Analysis](181025.gif)
